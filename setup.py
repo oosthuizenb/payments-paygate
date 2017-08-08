@@ -53,8 +53,8 @@ class PyTest(TestCommand):
 
 
 setup(
-    name='django-payments',
-    author='Mirumee Software',
+    name='payments-paygate',
+    author='oosthuizenb',
     author_email='hello@mirumee.com',
     description='Universal payment handling for Django',
     version='0.11.0.3',
